@@ -1,8 +1,8 @@
-# Grimoire
+# Grimoire App
 
 A calm theme for Obsidian with warm neutrals, muted gold accents, and book-inspired headings. Built for everyday notes, project boards, and the worlds you create.
 
-Grimoire includes dark and light color schemes, sharing the visual language of [Grimoire](https://grimoireapp.app), the tabletop character app.
+Grimoire App includes dark and light color schemes, sharing the visual language of [Grimoire](https://grimoireapp.app), the tabletop character app.
 
 ![Grimoire dark theme](images/dark-note.png)
 
@@ -27,12 +27,12 @@ Kanban color adjustments were checked with **Kanban 2.0.51**. Kanban is an optio
 
 ## Install
 
-Until Grimoire is available in the community directory, use manual installation:
+Until Grimoire App is available in the community directory, use manual installation:
 
 1. Download `manifest.json` and `theme.css` from the same release.
-2. Create a folder named `Grimoire` in your vault's `.obsidian/themes/` directory.
+2. Create a folder named `Grimoire App` in your vault's `.obsidian/themes/` directory.
 3. Put both downloaded files in that folder.
-4. Open **Settings → Appearance → Themes** and select **Grimoire**.
+4. Open **Settings → Appearance → Themes** and select **Grimoire App**.
 5. Under **Base color scheme**, choose **Dark**, **Light**, or **Adapt to system**.
 
 After the theme is listed in the community directory, it can also be installed from **Settings → Appearance → Themes → Manage**.
@@ -53,10 +53,10 @@ Screenshots use fictional demonstration notes.
 
 ## По-русски
 
-Grimoire — спокойная тема для заметок и рабочих досок: тёплые нейтральные цвета, приглушённые золотистые акценты и книжные заголовки. Есть светлый и тёмный варианты. Оформление связано с визуальным стилем [приложения Grimoire](https://grimoireapp.app).
+Grimoire App — спокойная тема для заметок и рабочих досок: тёплые нейтральные цвета, приглушённые золотистые акценты и книжные заголовки. Есть светлый и тёмный варианты. Оформление связано с визуальным стилем [приложения Grimoire](https://grimoireapp.app).
 
 Основной текст и элементы управления используют системный шрифт. Фирменный шрифт заголовков встроен в тему и работает без интернета. Фоновых изображений, текстур и анимации нет.
 
-Для установки вручную положите `manifest.json` и `theme.css` из одного релиза в папку `.obsidian/themes/Grimoire` вашего хранилища. Затем выберите Grimoire в **Настройки → Оформление → Темы**. Светлый и тёмный варианты переключаются в пункте **Основная тема**.
+Для установки вручную положите `manifest.json` и `theme.css` из одного релиза в папку `.obsidian/themes/Grimoire App` вашего хранилища. Затем выберите Grimoire App в **Настройки → Оформление → Темы**. Светлый и тёмный варианты переключаются в пункте **Основная тема**.
 
 Проверено в Obsidian 1.14.5 на macOS. Тема может работать самостоятельно; для доски Kanban нужен отдельный плагин. Лицензия оформления — MIT, встроенного шрифта — SIL OFL 1.1.
